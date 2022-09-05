@@ -7,6 +7,8 @@
 
 So really I got to know of it 2 days before and naturally I couldn't finish in time so I'm just uploading whatever I was able to come up with
 
+## The reason why this behaves like mobile even on desktop is because I was too lazy to make it responsive (I know I know). That last part was copilot. Can't believe I'm playing with an AI. Gotta meet some real people.
+The real reason is because I wanted to make a mobile app and I didnt know how so I thought maybe I'll convert this into a PWA now only god knows what'll happen. ✌🏻
 ## What I learned so far
 - I learned how to use react router
 - Learned about using mongodb atlas, mongoose with react
